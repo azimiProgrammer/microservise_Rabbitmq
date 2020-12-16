@@ -1,0 +1,12 @@
+D:\Microservice-Rabbitmq\microservice_rabbitmq\EventBusRabbitMQ\bin\Debug\net5.0\EventBusRabbitMQ.deps.json
+D:\Microservice-Rabbitmq\microservice_rabbitmq\EventBusRabbitMQ\bin\Debug\net5.0\EventBusRabbitMQ.dll
+D:\Microservice-Rabbitmq\microservice_rabbitmq\EventBusRabbitMQ\bin\Debug\net5.0\ref\EventBusRabbitMQ.dll
+D:\Microservice-Rabbitmq\microservice_rabbitmq\EventBusRabbitMQ\bin\Debug\net5.0\EventBusRabbitMQ.pdb
+D:\Microservice-Rabbitmq\microservice_rabbitmq\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservice-Rabbitmq\microservice_rabbitmq\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.AssemblyInfoInputs.cache
+D:\Microservice-Rabbitmq\microservice_rabbitmq\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.AssemblyInfo.cs
+D:\Microservice-Rabbitmq\microservice_rabbitmq\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+D:\Microservice-Rabbitmq\microservice_rabbitmq\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.dll
+D:\Microservice-Rabbitmq\microservice_rabbitmq\EventBusRabbitMQ\obj\Debug\net5.0\ref\EventBusRabbitMQ.dll
+D:\Microservice-Rabbitmq\microservice_rabbitmq\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.pdb
+D:\Microservice-Rabbitmq\microservice_rabbitmq\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.csprojAssemblyReference.cache
