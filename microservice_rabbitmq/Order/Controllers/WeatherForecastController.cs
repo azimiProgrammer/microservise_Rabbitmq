@@ -30,7 +30,7 @@ namespace Order.Controllers
             {
                 _eventBus.Publish<RegisterOrderEvent>(EventBusConstansts.RegisterOrderQueue, new RegisterOrderEvent
                 {
-                    Id = 1,
+                    Id = Guid.NewGuid(),
                     OrderDate = DateTime.Now
                 });
 

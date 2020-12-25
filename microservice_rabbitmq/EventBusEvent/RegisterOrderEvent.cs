@@ -8,7 +8,7 @@ namespace EventBusEvent
 {
     public class RegisterOrderEvent
     {
-        public long Id { get; set; }
+        public Guid Id { get; set; }
         public DateTime OrderDate { get; set; }
     }
 }
